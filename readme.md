@@ -1,0 +1,1 @@
+![fitting&predcition](https://github.com/isingmodel/Covid_naive_fitting/blob/main/figs/fitting_n_prediction.png?raw=true)
